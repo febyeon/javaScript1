@@ -1,0 +1,6 @@
+//산술연산자: + - / %
+//"", ''
+//string: properties(ex:length, toUpperCase(), indexOf('g'), trim())
+//variable(변수)-> var name='James';
+//대입연산자
+//toggle
